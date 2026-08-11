@@ -1,0 +1,14 @@
+# Install scripts
+install.sh
+scripts/*
+
+# Git
+.git/*
+.gitignore
+
+VSCode
+.vscode/*
+
+# Misc
+README.md
+LICENSE
